@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vesper-Backend", "Vesper-Backend\Vesper-Backend.csproj", "{5C569A88-4713-41B0-BB5C-81CD8E561781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C569A88-4713-41B0-BB5C-81CD8E561781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C569A88-4713-41B0-BB5C-81CD8E561781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C569A88-4713-41B0-BB5C-81CD8E561781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C569A88-4713-41B0-BB5C-81CD8E561781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688660A0-0398-472F-8BB0-29BA7550D100}
+	EndGlobalSection
+EndGlobal
