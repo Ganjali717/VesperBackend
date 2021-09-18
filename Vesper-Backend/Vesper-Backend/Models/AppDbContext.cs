@@ -26,5 +26,6 @@ namespace Vesper_Backend.Models
         public DbSet<Team> Teams { get; set; }
 
         public DbSet<Faq> Faqs { get; set; }
+        public DbSet<Heroes> Hero { get; set; }
     }
 }

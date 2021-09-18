@@ -29,6 +29,7 @@ namespace Vesper_Backend.Controllers
             List<Testimonials> testimonial = _context.Testimonial.ToList();
             List<Team> teams = _context.Teams.ToList();
             List<Faq> faqs = _context.Faqs.ToList();
+            List<Heroes> hero = _context.Hero.ToList();
 
             HomeViewModel homeVM = new HomeViewModel
             {
@@ -42,7 +43,8 @@ namespace Vesper_Backend.Controllers
                 Portfolios = _context.Portfolios.Include(x => x.PortfolioSliders).ToList(),
                 Categories = _context.Categories.ToList(),
                 Teams = teams,
-                Faqs = faqs
+                Faqs = faqs,
+                Hero = hero
             };
             return View(homeVM);
         }

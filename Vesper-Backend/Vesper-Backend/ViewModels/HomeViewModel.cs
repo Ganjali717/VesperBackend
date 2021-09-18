@@ -17,6 +17,7 @@ namespace Vesper_Backend.ViewModels
         public List<MoreServices> moreServices { get; set; }
         public List<Features> Features { get; set; }
         public List<Testimonials> Testimonial { get; set; }
+        public List<Heroes> Hero { get; set; }
 
         public List<Portfolio> Portfolios { get; set; }
         public List<Category> Categories { get; set; }

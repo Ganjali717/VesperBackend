@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Genceli\\Desktop\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj": {}
+    "C:\\Users\\Genceli\\Desktop\\VesperBackend\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Genceli\\Desktop\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj": {
+    "C:\\Users\\Genceli\\Desktop\\VesperBackend\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Genceli\\Desktop\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj",
+        "projectUniqueName": "C:\\Users\\Genceli\\Desktop\\VesperBackend\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj",
         "projectName": "Vesper-Backend",
-        "projectPath": "C:\\Users\\Genceli\\Desktop\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj",
+        "projectPath": "C:\\Users\\Genceli\\Desktop\\VesperBackend\\Vesper-Backend\\Vesper-Backend\\Vesper-Backend.csproj",
         "packagesPath": "C:\\Users\\Genceli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Genceli\\Desktop\\Vesper-Backend\\Vesper-Backend\\obj\\",
+        "outputPath": "C:\\Users\\Genceli\\Desktop\\VesperBackend\\Vesper-Backend\\Vesper-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
